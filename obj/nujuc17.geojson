@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nujuc17",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "camada": "Procedimentos Externos (NUJUC)", "procedimento": "5028538-21.2019.4.04.7200", "resumo": "ÁREA DE PRESERVAÇÃO PERMANENTE", "descricao": "Solicita que informe se a área objeto da lide envolve terreno de marinha e se há ocupação regular pela ré CRISTINA BRAGA BLAUTH; se houve autorização da SPU para as referidas construções (piscina, rampa de acesso e muros) e informe eventuais condutas fiscalizatórias no imóvel objeto dos autos." }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -48.503426960679001, -27.715428253386001 ], [ -48.503412938651998, -27.715271406366 ], [ -48.502935939952003, -27.715414573076998 ], [ -48.503017857167002, -27.715561804479002 ], [ -48.503426960679001, -27.715428253386001 ] ] ] ] } }
+]
+}

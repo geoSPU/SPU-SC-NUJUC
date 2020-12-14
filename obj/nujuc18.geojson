@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nujuc18",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "camada": "Procedimentos Externos (NUJUC)", "procedimento": "5002736-70.2019.4.04.7216", "resumo": "Degradação ambiental", "descricao": "Solicita subsídios de fato e de direito em defesa da União" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -48.763222670462, -28.534926211609001 ], [ -48.763037225704998, -28.534912573951999 ], [ -48.763015508549998, -28.535467767545001 ], [ -48.763200991521003, -28.535479642243001 ], [ -48.763222670462, -28.534926211609001 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nujuc37",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "camada": "Procedimentos Externos (NUJUC)", "procedimento": "5025842-75.2020.4.04.7200", "resumo": "Pedido liminar de adotar medidas afetas ao poder de polícia administrativa,", "descricao": "Rua dos Pinheiros, 240, Praia do Morro das Pedras, Bairro Campeche" }, "geometry": { "type": "GeometryCollection", "geometries": [ { "type": "Polygon", "coordinates": [ [ [ -48.493486388674, -27.700906468602 ], [ -48.493702948799999, -27.700709017535001 ], [ -48.493508608893997, -27.700514235379998 ], [ -48.493458185159, -27.700545971535998 ], [ -48.493464564706002, -27.700577472660001 ], [ -48.493409878031997, -27.700609342225999 ], [ -48.493452076490001, -27.700668243578999 ], [ -48.493267528921002, -27.700790443188001 ], [ -48.493428555009999, -27.700951762220999 ], [ -48.493486388674, -27.700906468602 ] ] ] } ] } }
+]
+}

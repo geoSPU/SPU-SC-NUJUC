@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nujuc21",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "camada": "Procedimentos Externos (NUJUC)", "procedimento": "5002479-45.2019.4.04.7216", "resumo": "Dano Ambiental, Laguna", "descricao": "undefined" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -48.763838849572998, -28.534923135650001 ], [ -48.763854790061998, -28.534641213259 ], [ -48.763693302797002, -28.534627971151 ], [ -48.763675328208002, -28.534911623652999 ], [ -48.763838849572998, -28.534923135650001 ] ] ] ] } }
+]
+}

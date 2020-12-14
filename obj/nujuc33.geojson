@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nujuc33",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "camada": "Procedimentos Externos (NUJUC)", "procedimento": "5022845-22.2020.4.04.7200", "resumo": "Dano Ambiental, Campeche", "descricao": "undefined" }, "geometry": { "type": "GeometryCollection", "geometries": [ { "type": "Polygon", "coordinates": [ [ [ -48.483961729404001, -27.687351940372 ], [ -48.483427345118002, -27.687104751016999 ], [ -48.482683426626998, -27.687624097935998 ], [ -48.482439401175, -27.687341639871001 ], [ -48.481276229946999, -27.687983675590999 ], [ -48.481706175215997, -27.689520609089001 ], [ -48.482583378477997, -27.689006588384 ], [ -48.484214849921997, -27.687805428050002 ], [ -48.483848771387997, -27.687454145019 ], [ -48.483961729404001, -27.687351940372 ] ] ] } ] } }
+]
+}

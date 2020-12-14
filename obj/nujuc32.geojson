@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nujuc32",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "camada": "Procedimentos Externos (NUJUC)", "procedimento": "500096387.2019.4.04.7216", "resumo": "reintegração de posse", "descricao": "reintegração de posse com desfazimento de construção e perdas e danos em face ÉDIO JOSÉ DEL CASTANHEL." }, "geometry": { "type": "GeometryCollection", "geometries": [ { "type": "Polygon", "coordinates": [ [ [ -48.814478550978002, -28.602084378404999 ], [ -48.814350669494999, -28.602009321084001 ], [ -48.814270225659001, -28.602107185830999 ], [ -48.814398004988, -28.602182241583002 ], [ -48.814478550978002, -28.602084378404999 ] ] ] } ] } }
+]
+}

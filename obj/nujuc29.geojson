@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nujuc29",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "camada": "Procedimentos Externos (NUJUC)", "procedimento": "1.33.005.000830\/2019-17", "resumo": "informações acerca do EIA\/RIMA da construção da \"Ponte Joinville\" (EIA\/RIMA em mídia anexa), que liga os bairros Adhemar Garcia e Boa Vista, ambas no", "descricao": "informações acerca do EIA\/RIMA da construção da \"Ponte Joinville\"\r\n(EIA\/RIMA em mídia anexa), que liga os bairros Adhemar Garcia e Boa Vista, ambas no\r\nMunicípio de Joinville, notadamente se o referido empreendimento localiza-se, ao menos\r\nparcialmente, em áreas de terras de marinha e seus acrecidos (LPM\/1831), nos termos do\r\nart. 2°, \"a\", do Decreto-Lei n° 9.760\/46." }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -48.811957539848997, -26.302494461247999 ], [ -48.811854681108002, -26.302449921903001 ], [ -48.805326355275, -26.314118208067999 ], [ -48.805423292687003, -26.314141304707999 ], [ -48.811957539848997, -26.302494461247999 ] ] ] ] } }
+]
+}

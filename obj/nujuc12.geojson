@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nujuc12",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "camada": "Procedimentos Externos (NUJUC)", "procedimento": "5015140-41.2018.4.04.7200", "resumo": "Usucapião- Betina Maria Adams", "descricao": "Usucapião Federal" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -48.422581082678001, -27.512493715361 ], [ -48.424280747692002, -27.512439785114999 ], [ -48.424237897367, -27.512269684395999 ], [ -48.422575489064002, -27.5123224337 ], [ -48.422581082678001, -27.512493715361 ] ] ] ] } }
+]
+}

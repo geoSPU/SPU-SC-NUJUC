@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nujuc23",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "camada": "Procedimentos Externos (NUJUC)", "procedimento": "5003632-62.2013.4.04.7204", "resumo": "Construções em terreno de marinha e acrescidos de marinha", "descricao": "Informar se os loteamentos em debate se sobrepõem a terrenos de marinha, destacando a área de incidência, bem como indicando quais quadras e lotes que se encontram em área de domínio da União, em relação a cada loteamento.\nInformar se a LPM encontra-se homologada, sendo que, em caso negativo, informe a fase em que o processo se encontra.\nInformar se as áreas informadas por Elói Kurrle Pegoraro e Edith Margot Grafulha se sobrepõem a terrenos de domínio da União." }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -49.387209438390002, -28.964431006613001 ], [ -49.394362221641003, -28.958170882088002 ], [ -49.390040983073, -28.954340691132 ], [ -49.391617833095999, -28.952995655092 ], [ -49.386619998436998, -28.94938703986 ], [ -49.381951641880001, -28.948053982373999 ], [ -49.378808398038998, -28.949171966569999 ], [ -49.374312248829, -28.952970913687 ], [ -49.387209438390002, -28.964431006613001 ] ] ] ] } }
+]
+}

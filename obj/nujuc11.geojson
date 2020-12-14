@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nujuc11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "camada": "Procedimentos Externos (NUJUC)", "procedimento": "5013946-06.2018.4.04.7200", "resumo": "USUCAPIÃO - IMÓVEL EM TERRENOS DE MARINHA E SEUS ACRESCIDOS", "descricao": "subsídios de fato e de direito para a defesa da União na ação de usucapião, especialmente ratificando\nou retificando o parecer técnico nº COCAP-SP-SC 0105862." }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -48.380381696523003, -27.442887514391 ], [ -48.380342937186001, -27.442787288885999 ], [ -48.380146990017998, -27.442847568998001 ], [ -48.380185707404998, -27.442947686322 ], [ -48.380381696523003, -27.442887514391 ] ] ] ] } }
+]
+}

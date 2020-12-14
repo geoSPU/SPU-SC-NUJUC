@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nujuc4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "camada": "Procedimentos Externos (NUJUC)", "procedimento": "5000471-14.2017.4.04.7201", "resumo": "Usucapião. Joinville", "descricao": "undefined" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -48.823445947377003, -26.338052541341 ], [ -48.823287841275999, -26.338246076354999 ], [ -48.823403887344, -26.338344953543999 ], [ -48.823578521271997, -26.338198145210999 ], [ -48.823445947377003, -26.338052541341 ] ] ] ] } }
+]
+}

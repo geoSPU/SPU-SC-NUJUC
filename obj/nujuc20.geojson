@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nujuc20",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "camada": "Procedimentos Externos (NUJUC)", "procedimento": "0306927-35.2016.8.24.0023", "resumo": "Requisita servidores para comparecimento em audiência como testemunhas", "descricao": "Questionamento à CJU encaminhado em 17\/10\/2019" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -48.562399378591003, -27.729984150370999 ], [ -48.562283585670997, -27.729950937883 ], [ -48.562185474235001, -27.730236301866 ], [ -48.562304041151002, -27.730213115914999 ], [ -48.562399378591003, -27.729984150370999 ] ] ] ] } }
+]
+}

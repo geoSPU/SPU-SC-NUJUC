@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nujuc14",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "camada": "Procedimentos Externos (NUJUC)", "procedimento": "5017252-80.2018.4.04.7200", "resumo": "Município de Biguaçu x José Pedro Fabrício", "descricao": "Município de Biguaçu x José Pedro Fabrício" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -48.633741556884999, -27.520662452726999 ], [ -48.633619170604, -27.520576496014002 ], [ -48.633469752516, -27.520471562802001 ], [ -48.633397841563003, -27.520425735431999 ], [ -48.633124121110001, -27.52022938012 ], [ -48.632818233519998, -27.520015223628999 ], [ -48.632150584312001, -27.519547201179002 ], [ -48.632125327188, -27.519737292641999 ], [ -48.633636407019999, -27.520797178963001 ], [ -48.633741556884999, -27.520662452726999 ] ] ] ] } }
+]
+}

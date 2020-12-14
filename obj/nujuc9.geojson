@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nujuc9",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "camada": "Procedimentos Externos (NUJUC)", "procedimento": "5010311-11.2018.4.04.7202", "resumo": "Usucapião", "descricao": "Manivest5ação de interesse" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -48.648342417763999, -27.487855054404999 ], [ -48.648248661387001, -27.487846052097002 ], [ -48.648269871659998, -27.488053961833 ], [ -48.648341486150997, -27.488049316163998 ], [ -48.648342417763999, -27.487855054404999 ] ] ] ] } }
+]
+}

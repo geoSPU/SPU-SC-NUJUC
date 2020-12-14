@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nujuc27",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "camada": "Procedimentos Externos (NUJUC)", "procedimento": "5010328-19.2019.4.04.7200", "resumo": "Interferência com bem da União", "descricao": "Informar se o imóvel objeto da lide interfere com bem da União e se há ocupação regular pelo autor da ação, informando se tem interesse em intervir na lide." }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -48.509100298580002, -27.744568880837001 ], [ -48.509395785789998, -27.744552094587998 ], [ -48.509426623898001, -27.744425517679002 ], [ -48.509124989726999, -27.744439429507999 ], [ -48.509100298580002, -27.744568880837001 ] ] ] ] } }
+]
+}

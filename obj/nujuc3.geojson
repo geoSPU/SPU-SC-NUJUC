@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nujuc3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "camada": "Procedimentos Externos (NUJUC)", "procedimento": "5000504-22.2018.4.04.7216", "resumo": "MPF e União x Município de Laguna\/SC e Ravena Cassino Hotel", "descricao": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -48.761991285211003, -28.495229952439999 ], [ -48.763205233934002, -28.495298666019998 ], [ -48.762891676575997, -28.494393562713 ], [ -48.763347046527997, -28.494274558737001 ], [ -48.763440088606998, -28.494124506032001 ], [ -48.763644039409002, -28.493761714801 ], [ -48.763602045893997, -28.493651125041001 ], [ -48.765809208980002, -28.489386136284999 ], [ -48.765193957257999, -28.489489256624001 ], [ -48.761991285211003, -28.495229952439999 ] ] ] ] } }
+]
+}

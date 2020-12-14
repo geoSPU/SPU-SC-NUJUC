@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nujuc26",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "camada": "Procedimentos Externos (NUJUC)", "procedimento": "5026105-44.2019.4.04.7200", "resumo": "Usucapião", "descricao": "1. Sirvo-me do presente para informar sobre a ação de usucapião de imóvel, na qual a parte autora\r\nafirma que o pedido de usucapião administrativo foi negado sob o fundamento de tratar-se de “terreno de marinha não\r\nhomologado”.\r\n2. A União foi citada para apresentar contestação.\r\n3. Sendo assim, solicito a essa SPU\/SC que informe se há interferência com imóvel da União,\r\napresentando eventuais subsídios para a defesa judicial, até 08\/01\/2020." }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -48.496278269960001, -27.552941731882001 ], [ -48.496295684821, -27.553031382634 ], [ -48.496452929339, -27.552944994116999 ], [ -48.496477875346997, -27.552900846217 ], [ -48.496462177746999, -27.552882021155 ], [ -48.496436233947001, -27.552899205925002 ], [ -48.496415762433003, -27.552874655478 ], [ -48.496322094542002, -27.552925326042001 ], [ -48.496324003232999, -27.552934185765999 ], [ -48.496278269960001, -27.552941731882001 ] ] ] ] } }
+]
+}
